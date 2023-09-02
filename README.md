@@ -1,2 +1,11 @@
-# Shopify-ECommerce-Website
-This is a general purpose e-commerce store where different products can be bought from the comfort of home through the Internet.
+# Shop With Zosh
+
+### website
+https://shopwithzosh.vercel.app/
+
+### server spring boot
+https://github.com/ashok0001/e-commerce-server
+
+
+
+
